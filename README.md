@@ -12,5 +12,5 @@ This is a public list of things that has helped me understand concepts better, o
 > The command saves your local modifications away and reverts the working directory to match the HEAD commit. The modifications stashed away by this command can be listed with git stash list , inspected with git stash show , and restored (potentially on top of a different commit) with git stash apply.
 * [Video: Quick beginner introduction to stubs and mocks →](https://www.youtube.com/watch?v=oyMPzA-ZWkE)
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) →](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-
+* **Git basics:** [Video: Fixing Common Mistakes and Undoing Bad Commits →](https://www.youtube.com/watch?v=FdZecVxzJbk)
 
